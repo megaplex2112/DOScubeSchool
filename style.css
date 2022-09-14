@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  color: #a51d1d;
+  font-size: 5mm; 
+  }
+
+h1 {
+  color: blue;
+  background-color: #c8cbc8;
+}
+
+body {
+  background-color: aliceblue;
+}
